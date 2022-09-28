@@ -10,7 +10,7 @@
 ## SIG Administrator
 
 - [alvarosamudio](https://github.com/alvarosamudio)
-- [xoascf](hhttps://github.com/xoascf)
+- [xoascf](https://github.com/xoascf)
 - [jhalounix](https://github.com/jhalounix)
 - [sguinetti](https://github.com/sguinetti)
 
