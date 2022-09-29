@@ -30,7 +30,7 @@ Considering the review environment of community volunteers ready to collaborate,
 
 ## Discussion channels
 
--[Telegram Group] (https://t.me/deepinenespanol)
+-[Telegram Group](https://t.me/deepinenespanol)
 
 ## Related Links
 
